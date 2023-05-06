@@ -1,15 +1,16 @@
 # Mateusz Janowski
 
-![Mateusz Janowski](https://drive.google.com/file/d/1hp3mHqdUZYFC0m-Huaw4j6cldIelXwB0/preview)
+![Mateusz Janowski](https://www.mjanowski.dev/images/gh_banner.png)
 
-I'm an open-minded, all-round software developer, with a main focus on:
-	🟣 TypeScrpt, 
-	🟣 NextJS, 
-	🟣 React, 
-	🟣 Node.js, 
-	🟣 GraphQL, 
-	🟣 MongoDB, 
-	🟣 Express.
+### I'm an open-minded, all-round software developer, with a main focus on:
+
+- TypeScript
+- NextJS
+- React
+- Node.js
+- GraphQL
+- MongoDB
+- Express
 
 ## 🌟 My Programming Journey
 My journey as a programmer began during my time at the Complex of Technical Schools, where I majored in IT with a focus on internet applications. 
