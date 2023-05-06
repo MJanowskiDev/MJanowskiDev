@@ -1,6 +1,6 @@
 # Mateusz Janowski
 
-![Mateusz Janowski](https://mjanowski.dev/images/mjanowskidev.png)
+![Mateusz Janowski](https://drive.google.com/file/d/1hp3mHqdUZYFC0m-Huaw4j6cldIelXwB0/preview)
 
 I'm an open-minded, all-round software developer, with a main focus on:
 	🟣 TypeScrpt, 
